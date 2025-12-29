@@ -1,4 +1,5 @@
 Revenue_type                           Total_revenue	                            Customers
+<img width="980" height="171" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/47821a72-f678-4464-82f2-688bd23736af" />
 
 new_customers_revenue                 	17133031.05                               	29200
 
