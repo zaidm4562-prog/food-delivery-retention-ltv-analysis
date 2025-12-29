@@ -21,5 +21,3 @@ disproportionate impact on topline revenue.
 
 
 
-<img width="980" height="171" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/47821a72-f678-4464-82f2-688bd23736af" />
-
