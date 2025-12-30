@@ -38,4 +38,22 @@ Strong first-order conversion is not translating into habit formation.
 
 ---
 
+## 3. Customer LTV declined as acquisition scaled
+
+### 90-Day LTV by Cohort (Selected)
+
+| Period         | Avg 90-Day LTV (₹) |
+|----------------|-------------------|
+| Early 2023          | ~2,100 |
+| Mid 2023 – 2024     | ~1,800–1,950 |
+| 2025 cohorts*       | <1,000 |
+
+\*Recent cohorts are immature and excluded from long-term conclusions.
+
+Key takeaway:
+- LTV peaked early and stabilized at a lower level
+- Larger cohorts did not improve per-customer value
+
+Why this matters:
+Revenue growth has been driven by acquisition volume rather than improved customer quality.
 
