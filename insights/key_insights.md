@@ -18,6 +18,7 @@ Sustainable growth depends far more on retaining existing customers than
 continuously acquiring new users. Any decline in retention would have a
 disproportionate impact on topline revenue.
 
+---
 
 ## 2. Customer retention collapses early across all cohorts
 
@@ -57,6 +58,7 @@ Strong first-order conversion is not translating into habit formation.
 **Why this matters:**  
 Revenue growth has been driven by acquisition volume rather than improved customer quality.
 
+---
 
 ## 4. First-order discounts materially reduce customer value
 
@@ -74,7 +76,7 @@ Revenue growth has been driven by acquisition volume rather than improved custom
 While discounts increase conversion, they attract more price-sensitive users and dilute
 long-term unit economics at scale.
 
-
+---
 
 ## 5. Customer value varies significantly by city
 
@@ -94,3 +96,11 @@ long-term unit economics at scale.
 
 **Why this matters**
 Uniform acquisition and discount strategies across geographies dilute blended LTV.
+
+
+---
+
+### Overall Pattern Observed
+Across cohorts, geographies, and acquisition channels, revenue growth has been driven by
+volume rather than customer quality. Without improvements in early retention and repeat
+behavior, further acquisition will continue to dilute long-term value.
