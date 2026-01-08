@@ -92,7 +92,7 @@ The final output of this project aims to provide leadership with:
 - Actionable recommendations to improve retention without sacrificing growth
 
 
-Key Insights
+**Key Insights**
 
 Revenue is dominated by returning customers: Returning users contribute ~73% of total revenue, with per-customer revenue nearly 3× higher than new customers, making retention the primary revenue driver.
 
