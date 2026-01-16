@@ -1,6 +1,8 @@
-📊 Food Delivery Retention & LTV Analysis
+****📊 Food Delivery Retention & LTV Analysis****
+
 Why Revenue Growth Can Hide Long-Term Customer Churn
-Executive Summary
+
+**Executive Summary**
 
 This project analyzes customer retention, cohort behavior, and lifetime value (LTV) for a food-delivery business to understand whether reported revenue growth is sustainable or masking long-term churn.
 
@@ -14,7 +16,7 @@ Discount-acquired customers generate significantly lower long-term value
 
 The analysis demonstrates how relying only on revenue can lead to misleading business conclusions without retention and cohort analysis.
 
-Business Context
+**Business Context**
 
 The company operates across multiple Indian cities (Tier-1, Tier-2, Tier-3) and has reported steady month-over-month revenue growth.
 
@@ -28,7 +30,7 @@ Long-term customer value could be declining
 
 This analysis was designed to validate these concerns using data-driven evidence.
 
-Key Business Questions
+**Key Business Questions**
 
 Is revenue growth driven by new customers or returning customers?
 
@@ -40,7 +42,7 @@ How do discount-acquired customers behave compared to non-discount users?
 
 Are there city-level differences in retention and LTV performance?
 
-Data Overview
+**Data Overview**
 
 Dataset Type: High-fidelity synthetic data designed to mirror real food-delivery behavior
 
@@ -48,7 +50,7 @@ Time Range: 24 months
 Scale: ~120,000 orders
 Geography: Tier-1, Tier-2, Tier-3 cities
 
-Tables Used
+**Tables Used**
 
 customers – signup data and acquisition attributes
 
@@ -60,7 +62,7 @@ restaurants – restaurant attributes and city presence
 
 While the dataset is synthetic, it intentionally includes real-world issues such as early churn, discount dependency, uneven cohort performance, and city-level behavioral differences.
 
-Metric Definitions
+**Metric Definitions**
 
 To ensure clarity and business alignment, the following metrics were defined explicitly:
 
@@ -78,7 +80,7 @@ A customer whose first delivered order included a promotional discount.
 
 These definitions were fixed before analysis to avoid ambiguous interpretations.
 
-Analysis Approach
+**Analysis Approach**
 
 The analysis followed a structured, business-first workflow:
 
@@ -99,7 +101,7 @@ Identify geographic differences in retention and customer value.
 
 Each step was designed to answer a specific business question rather than generate exploratory charts.
 
-Key Insights
+**Key Insights**
 
 Revenue is dominated by returning customers, contributing approximately 70–73% of total revenue.
 
@@ -113,7 +115,7 @@ Tier-1 cities outperform Tier-2/3 cities, with 30–35% higher LTV, suggesting s
 
 Overall growth appears volume-driven, not value-driven, increasing long-term risk.
 
-Business Recommendations
+**Business Recommendations**
 
 Based on the analysis, the following actions are recommended:
 
@@ -129,7 +131,7 @@ Monitor 30-60-90 day LTV trends as a leading indicator of customer quality.
 
 These actions aim to improve long-term sustainability without sacrificing short-term growth.
 
-Assumptions & Limitations
+**Assumptions & Limitations**
 
 Churn is defined as no delivered order in a given month, which may misclassify infrequent users.
 
@@ -141,7 +143,7 @@ Discount impact is measured only at first order, not across lifetime promotions.
 
 These limitations should be considered when operationalizing results.
 
-Tools Used
+**Tools Used**
 
 BigQuery SQL – data extraction, cohort construction, aggregations
 
@@ -149,7 +151,7 @@ Python – synthetic data generation and validation
 
 GitHub – project versioning and documentation
 
-How This Analysis Helps a Business
+**How This Analysis Helps a Business**
 
 For founders, growth managers, and strategy teams, this analysis helps:
 
@@ -161,7 +163,7 @@ Optimize acquisition and discount strategies
 
 Shift focus from volume-led growth to value-led growth
 
-Project Structure
+**Project Structure**
 
 ├── sql/       # Cohort, retention, and LTV queries
 
@@ -174,4 +176,5 @@ Project Structure
 📌 Final Note
 
 This project demonstrates end-to-end Data Analyst work:
+
 from business problem framing → metric definition → cohort analysis → insights → recommendations.
